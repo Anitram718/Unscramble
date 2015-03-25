@@ -5,6 +5,7 @@
 using namespace std;
 const int tableSize = 100;
 //this would be so impressive if it could read an html file instead of a txt file
+//yea most def
 
 class Unscramble{
 	struct NODE{
